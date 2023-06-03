@@ -1,0 +1,116 @@
+body{
+    background-color: #cccccc;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin: auto;
+}
+
+
+#principal{
+    padding:0px;
+    background-color: white;
+    width: 1300px;
+    height: 800px;
+    display:block;
+    margin: auto; 
+}
+#entete{
+    width: 1300px;
+    height:200px;
+    background-color:black;
+ 
+
+}
+
+#logo{
+    display: block;
+    margin-left: 0%;
+
+ }
+
+ #logo1, #logo2{
+    display: block;
+    margin: auto;
+
+ }
+
+
+
+#menu{
+background-color: brown;
+width: 1300px;
+height:40px;
+
+}
+#contenu{
+    background-color:white;
+    width: 1300px;
+    height:4230px;
+    padding-top:0px;
+    display: block;
+    padding-bottom: 0%;
+    
+}
+    
+
+
+#piedpage{
+    background-color:black;
+    width: 1300px;
+    height: 0px;
+
+}
+
+
+p{ 
+    text-align: left;
+    color: black;
+    text-transform: capitalize;
+    font-size: large;
+
+}
+li{
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+    padding-top: 10;
+    color: white;
+}
+
+ 
+li:hover{
+background-color:green;
+color: black;
+}
+
+h2{
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    background-color: brown;
+    color: white;
+    margin-top:0px;
+    text-align: center;
+    background-color: green;
+    color: aliceblue;
+    
+    
+}
+
+h1{
+    color: green;
+    text-align: center;
+   margin: auto;
+ }
+
+ 
+
+ .cadre{
+    border: 2px solid;  
+    border-color:transparent;
+    padding-bottom:3%;
+    padding-top:3% ;
+ }
+
+ h3{
+    color: green;
+ }
